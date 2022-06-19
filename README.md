@@ -1,4 +1,10 @@
-# Welcome to Calvin-CoolestYT.github.io!
-## This website is for hosting bots and all that.
-## Go to Calvin-CoolestYT.github.io/index.html for the main page.
-## Thanks for stopping by!
+<header class="page-header"  
+        role="banner">
+      <h1 class="project-name">Areg Sarkissian</h1>
+</header>
+<main id="content" class="main-content" role="main">
+       {{ content }}
+      <footer class="site-footer">
+        &copy; 2019 Areg Sarkissian
+      </footer>
+</main>
