@@ -4,5 +4,9 @@ Welcome to my website! It is run by Calvin_Coolest, where I host bots, add code,
   I play minecraft too. Thanks for stopping by!
   A code snippet:
   ```python
-  print("Hello World!")
+a = 1
+print("Here are some numbers:")
+while True:
+  a += 1
+  print(a)
   ```
