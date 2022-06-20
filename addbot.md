@@ -1,3 +1,7 @@
+---
+title: Zoom Bot
+---
+
 Click on "Install bot" to install this zoom bot!
 
 [Install bot](https://zoom.us/oauth/authorize?response_type=code&client_id=WnuF90v0RLy_YRcmp53Nw&redirect_uri=https://sites.google.com/view/calvin-coolest)
