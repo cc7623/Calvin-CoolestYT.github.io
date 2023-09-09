@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: 2.tcp.ngrok.io:17809
+target: 2.tcp.ngrok.io
 ---
